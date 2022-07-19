@@ -1,3 +1,20 @@
-*{
-  background-image:url("https://wallpapercave.com/wp/wp4973295.jpg");
+body {
+  background-image:url("https://cdn3.vectorstock.com/i/1000x1000/27/02/cute-girl-character-on-bike-with-floral-wreath-vector-35702702.jpg");
+}
+h1{
+  font-family:'Times New Roman', Times, serif;
+  text-shadow: 2px 2px;
+}
+h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: line-through;
+}
+h3{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p.two {
+  border: 7px solid black;
+  border-radius: 10px;
+  padding: 20px;
+  font-family: "Brush Script MT", cursive;
 }
